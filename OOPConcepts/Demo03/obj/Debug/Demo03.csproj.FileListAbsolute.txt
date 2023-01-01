@@ -1,0 +1,8 @@
+C:\Users\caksh\Desktop\my-git-class-lab-internal\dotnet-git\OOPConcepts\Demo03\bin\Debug\Demo03.exe.config
+C:\Users\caksh\Desktop\my-git-class-lab-internal\dotnet-git\OOPConcepts\Demo03\bin\Debug\Demo03.exe
+C:\Users\caksh\Desktop\my-git-class-lab-internal\dotnet-git\OOPConcepts\Demo03\bin\Debug\Demo03.pdb
+C:\Users\caksh\Desktop\my-git-class-lab-internal\dotnet-git\OOPConcepts\Demo03\obj\Debug\Demo03.csproj.AssemblyReference.cache
+C:\Users\caksh\Desktop\my-git-class-lab-internal\dotnet-git\OOPConcepts\Demo03\obj\Debug\Demo03.csproj.SuggestedBindingRedirects.cache
+C:\Users\caksh\Desktop\my-git-class-lab-internal\dotnet-git\OOPConcepts\Demo03\obj\Debug\Demo03.csproj.CoreCompileInputs.cache
+C:\Users\caksh\Desktop\my-git-class-lab-internal\dotnet-git\OOPConcepts\Demo03\obj\Debug\Demo03.exe
+C:\Users\caksh\Desktop\my-git-class-lab-internal\dotnet-git\OOPConcepts\Demo03\obj\Debug\Demo03.pdb

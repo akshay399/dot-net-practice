@@ -1,0 +1,11 @@
+C:\Users\caksh\Desktop\my-git-class-lab-internal\dotnet-git\Demo\Demo\bin\Debug\Demo.exe.config
+C:\Users\caksh\Desktop\my-git-class-lab-internal\dotnet-git\Demo\Demo\bin\Debug\Demo.exe
+C:\Users\caksh\Desktop\my-git-class-lab-internal\dotnet-git\Demo\Demo\bin\Debug\Demo.pdb
+C:\Users\caksh\Desktop\my-git-class-lab-internal\dotnet-git\Demo\Demo\obj\Debug\Demo.csproj.AssemblyReference.cache
+C:\Users\caksh\Desktop\my-git-class-lab-internal\dotnet-git\Demo\Demo\obj\Debug\Demo.csproj.SuggestedBindingRedirects.cache
+C:\Users\caksh\Desktop\my-git-class-lab-internal\dotnet-git\Demo\Demo\obj\Debug\Demo.csproj.CoreCompileInputs.cache
+C:\Users\caksh\Desktop\my-git-class-lab-internal\dotnet-git\Demo\Demo\obj\Debug\Demo.exe
+C:\Users\caksh\Desktop\my-git-class-lab-internal\dotnet-git\Demo\Demo\obj\Debug\Demo.pdb
+C:\Users\caksh\Desktop\my-git-class-lab-internal\dotnet-git\Demo\Demo\bin\Debug\Arithmetic.dll
+C:\Users\caksh\Desktop\my-git-class-lab-internal\dotnet-git\Demo\Demo\bin\Debug\Arithmetic.pdb
+C:\Users\caksh\Desktop\my-git-class-lab-internal\dotnet-git\Demo\Demo\obj\Debug\Demo.csproj.CopyComplete

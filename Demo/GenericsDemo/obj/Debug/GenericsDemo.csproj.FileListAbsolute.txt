@@ -1,0 +1,8 @@
+C:\Users\caksh\Desktop\my-git-class-lab-internal\dotnet-git\Demo\GenericsDemo\bin\Debug\GenericsDemo.exe.config
+C:\Users\caksh\Desktop\my-git-class-lab-internal\dotnet-git\Demo\GenericsDemo\bin\Debug\GenericsDemo.exe
+C:\Users\caksh\Desktop\my-git-class-lab-internal\dotnet-git\Demo\GenericsDemo\bin\Debug\GenericsDemo.pdb
+C:\Users\caksh\Desktop\my-git-class-lab-internal\dotnet-git\Demo\GenericsDemo\obj\Debug\GenericsDemo.csproj.AssemblyReference.cache
+C:\Users\caksh\Desktop\my-git-class-lab-internal\dotnet-git\Demo\GenericsDemo\obj\Debug\GenericsDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\caksh\Desktop\my-git-class-lab-internal\dotnet-git\Demo\GenericsDemo\obj\Debug\GenericsDemo.csproj.CoreCompileInputs.cache
+C:\Users\caksh\Desktop\my-git-class-lab-internal\dotnet-git\Demo\GenericsDemo\obj\Debug\GenericsDemo.exe
+C:\Users\caksh\Desktop\my-git-class-lab-internal\dotnet-git\Demo\GenericsDemo\obj\Debug\GenericsDemo.pdb

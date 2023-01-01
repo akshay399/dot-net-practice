@@ -1,0 +1,6 @@
+C:\Users\caksh\Desktop\my-git-class-lab-internal\dotnet-git\Demo\Arithmetic\bin\Debug\Arithmetic.dll
+C:\Users\caksh\Desktop\my-git-class-lab-internal\dotnet-git\Demo\Arithmetic\bin\Debug\Arithmetic.pdb
+C:\Users\caksh\Desktop\my-git-class-lab-internal\dotnet-git\Demo\Arithmetic\obj\Debug\Arithmetic.csproj.AssemblyReference.cache
+C:\Users\caksh\Desktop\my-git-class-lab-internal\dotnet-git\Demo\Arithmetic\obj\Debug\Arithmetic.csproj.CoreCompileInputs.cache
+C:\Users\caksh\Desktop\my-git-class-lab-internal\dotnet-git\Demo\Arithmetic\obj\Debug\Arithmetic.dll
+C:\Users\caksh\Desktop\my-git-class-lab-internal\dotnet-git\Demo\Arithmetic\obj\Debug\Arithmetic.pdb
