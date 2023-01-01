@@ -1,0 +1,8 @@
+C:\Users\caksh\Desktop\my-git-class-lab-internal\dotnet-git\Demo\Demo3.1EventDelegate\bin\Debug\Demo3.1EventDelegate.exe.config
+C:\Users\caksh\Desktop\my-git-class-lab-internal\dotnet-git\Demo\Demo3.1EventDelegate\bin\Debug\Demo3.1EventDelegate.exe
+C:\Users\caksh\Desktop\my-git-class-lab-internal\dotnet-git\Demo\Demo3.1EventDelegate\bin\Debug\Demo3.1EventDelegate.pdb
+C:\Users\caksh\Desktop\my-git-class-lab-internal\dotnet-git\Demo\Demo3.1EventDelegate\obj\Debug\Demo3.1EventDelegate.csproj.AssemblyReference.cache
+C:\Users\caksh\Desktop\my-git-class-lab-internal\dotnet-git\Demo\Demo3.1EventDelegate\obj\Debug\Demo3.1EventDelegate.csproj.SuggestedBindingRedirects.cache
+C:\Users\caksh\Desktop\my-git-class-lab-internal\dotnet-git\Demo\Demo3.1EventDelegate\obj\Debug\Demo3.1EventDelegate.csproj.CoreCompileInputs.cache
+C:\Users\caksh\Desktop\my-git-class-lab-internal\dotnet-git\Demo\Demo3.1EventDelegate\obj\Debug\Demo3.1EventDelegate.exe
+C:\Users\caksh\Desktop\my-git-class-lab-internal\dotnet-git\Demo\Demo3.1EventDelegate\obj\Debug\Demo3.1EventDelegate.pdb

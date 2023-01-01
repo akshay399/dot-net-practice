@@ -1,0 +1,8 @@
+C:\Users\caksh\Desktop\my-git-class-lab-internal\dotnet-git\Demo\Demo3EventDelegateVideoEncode\bin\Debug\Demo3EventDelegateVideoEncode.exe.config
+C:\Users\caksh\Desktop\my-git-class-lab-internal\dotnet-git\Demo\Demo3EventDelegateVideoEncode\bin\Debug\Demo3EventDelegateVideoEncode.exe
+C:\Users\caksh\Desktop\my-git-class-lab-internal\dotnet-git\Demo\Demo3EventDelegateVideoEncode\bin\Debug\Demo3EventDelegateVideoEncode.pdb
+C:\Users\caksh\Desktop\my-git-class-lab-internal\dotnet-git\Demo\Demo3EventDelegateVideoEncode\obj\Debug\Demo3EventDelegateVideoEncode.csproj.AssemblyReference.cache
+C:\Users\caksh\Desktop\my-git-class-lab-internal\dotnet-git\Demo\Demo3EventDelegateVideoEncode\obj\Debug\Demo3EventDelegateVideoEncode.csproj.SuggestedBindingRedirects.cache
+C:\Users\caksh\Desktop\my-git-class-lab-internal\dotnet-git\Demo\Demo3EventDelegateVideoEncode\obj\Debug\Demo3EventDelegateVideoEncode.csproj.CoreCompileInputs.cache
+C:\Users\caksh\Desktop\my-git-class-lab-internal\dotnet-git\Demo\Demo3EventDelegateVideoEncode\obj\Debug\Demo3EventDelegateVideoEncode.exe
+C:\Users\caksh\Desktop\my-git-class-lab-internal\dotnet-git\Demo\Demo3EventDelegateVideoEncode\obj\Debug\Demo3EventDelegateVideoEncode.pdb
