@@ -1,0 +1,9 @@
+C:\Users\caksh\Desktop\my-git-class-lab-internal\dotnet-git\Demo\POCOLib\bin\Debug\POCOLib.dll
+C:\Users\caksh\Desktop\my-git-class-lab-internal\dotnet-git\Demo\POCOLib\bin\Debug\POCOLib.pdb
+C:\Users\caksh\Desktop\my-git-class-lab-internal\dotnet-git\Demo\POCOLib\bin\Debug\SunbeamAnnotations.dll
+C:\Users\caksh\Desktop\my-git-class-lab-internal\dotnet-git\Demo\POCOLib\bin\Debug\SunbeamAnnotations.pdb
+C:\Users\caksh\Desktop\my-git-class-lab-internal\dotnet-git\Demo\POCOLib\obj\Debug\POCOLib.csproj.AssemblyReference.cache
+C:\Users\caksh\Desktop\my-git-class-lab-internal\dotnet-git\Demo\POCOLib\obj\Debug\POCOLib.csproj.CoreCompileInputs.cache
+C:\Users\caksh\Desktop\my-git-class-lab-internal\dotnet-git\Demo\POCOLib\obj\Debug\POCOLib.csproj.CopyComplete
+C:\Users\caksh\Desktop\my-git-class-lab-internal\dotnet-git\Demo\POCOLib\obj\Debug\POCOLib.dll
+C:\Users\caksh\Desktop\my-git-class-lab-internal\dotnet-git\Demo\POCOLib\obj\Debug\POCOLib.pdb

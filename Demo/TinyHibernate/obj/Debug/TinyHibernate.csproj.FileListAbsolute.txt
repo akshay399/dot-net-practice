@@ -1,0 +1,13 @@
+C:\Users\caksh\Desktop\my-git-class-lab-internal\dotnet-git\Demo\TinyHibernate\bin\Debug\TinyHibernate.exe.config
+C:\Users\caksh\Desktop\my-git-class-lab-internal\dotnet-git\Demo\TinyHibernate\bin\Debug\TinyHibernate.exe
+C:\Users\caksh\Desktop\my-git-class-lab-internal\dotnet-git\Demo\TinyHibernate\bin\Debug\TinyHibernate.pdb
+C:\Users\caksh\Desktop\my-git-class-lab-internal\dotnet-git\Demo\TinyHibernate\bin\Debug\POCOLib.dll
+C:\Users\caksh\Desktop\my-git-class-lab-internal\dotnet-git\Demo\TinyHibernate\bin\Debug\SunbeamAnnotations.dll
+C:\Users\caksh\Desktop\my-git-class-lab-internal\dotnet-git\Demo\TinyHibernate\bin\Debug\POCOLib.pdb
+C:\Users\caksh\Desktop\my-git-class-lab-internal\dotnet-git\Demo\TinyHibernate\bin\Debug\SunbeamAnnotations.pdb
+C:\Users\caksh\Desktop\my-git-class-lab-internal\dotnet-git\Demo\TinyHibernate\obj\Debug\TinyHibernate.csproj.AssemblyReference.cache
+C:\Users\caksh\Desktop\my-git-class-lab-internal\dotnet-git\Demo\TinyHibernate\obj\Debug\TinyHibernate.csproj.SuggestedBindingRedirects.cache
+C:\Users\caksh\Desktop\my-git-class-lab-internal\dotnet-git\Demo\TinyHibernate\obj\Debug\TinyHibernate.csproj.CoreCompileInputs.cache
+C:\Users\caksh\Desktop\my-git-class-lab-internal\dotnet-git\Demo\TinyHibernate\obj\Debug\TinyHibernate.csproj.CopyComplete
+C:\Users\caksh\Desktop\my-git-class-lab-internal\dotnet-git\Demo\TinyHibernate\obj\Debug\TinyHibernate.exe
+C:\Users\caksh\Desktop\my-git-class-lab-internal\dotnet-git\Demo\TinyHibernate\obj\Debug\TinyHibernate.pdb

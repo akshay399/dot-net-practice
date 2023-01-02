@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace Arithmetic
 {
+    //[Serializable]
     public class Maths
     {
         public int Add(int x, int y)
@@ -13,7 +14,7 @@ namespace Arithmetic
             return x + y;
         }
 
-        public int Subtract(int x, int y)
+        public int Sub(int x, int y)
         {
             return x - y;
         }

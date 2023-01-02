@@ -1,0 +1,6 @@
+C:\Users\caksh\Desktop\my-git-class-lab-internal\dotnet-git\Demo\SunbeamAnnotations\bin\Debug\SunbeamAnnotations.dll
+C:\Users\caksh\Desktop\my-git-class-lab-internal\dotnet-git\Demo\SunbeamAnnotations\bin\Debug\SunbeamAnnotations.pdb
+C:\Users\caksh\Desktop\my-git-class-lab-internal\dotnet-git\Demo\SunbeamAnnotations\obj\Debug\SunbeamAnnotations.csproj.AssemblyReference.cache
+C:\Users\caksh\Desktop\my-git-class-lab-internal\dotnet-git\Demo\SunbeamAnnotations\obj\Debug\SunbeamAnnotations.csproj.CoreCompileInputs.cache
+C:\Users\caksh\Desktop\my-git-class-lab-internal\dotnet-git\Demo\SunbeamAnnotations\obj\Debug\SunbeamAnnotations.dll
+C:\Users\caksh\Desktop\my-git-class-lab-internal\dotnet-git\Demo\SunbeamAnnotations\obj\Debug\SunbeamAnnotations.pdb
