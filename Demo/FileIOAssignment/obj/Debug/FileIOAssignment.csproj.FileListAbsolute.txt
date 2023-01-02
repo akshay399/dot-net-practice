@@ -1,0 +1,8 @@
+C:\Users\caksh\Desktop\my-git-class-lab-internal\dotnet-git\Demo\FileIOAssignment\bin\Debug\FileIOAssignment.exe.config
+C:\Users\caksh\Desktop\my-git-class-lab-internal\dotnet-git\Demo\FileIOAssignment\bin\Debug\FileIOAssignment.exe
+C:\Users\caksh\Desktop\my-git-class-lab-internal\dotnet-git\Demo\FileIOAssignment\bin\Debug\FileIOAssignment.pdb
+C:\Users\caksh\Desktop\my-git-class-lab-internal\dotnet-git\Demo\FileIOAssignment\obj\Debug\FileIOAssignment.csproj.AssemblyReference.cache
+C:\Users\caksh\Desktop\my-git-class-lab-internal\dotnet-git\Demo\FileIOAssignment\obj\Debug\FileIOAssignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\caksh\Desktop\my-git-class-lab-internal\dotnet-git\Demo\FileIOAssignment\obj\Debug\FileIOAssignment.csproj.CoreCompileInputs.cache
+C:\Users\caksh\Desktop\my-git-class-lab-internal\dotnet-git\Demo\FileIOAssignment\obj\Debug\FileIOAssignment.exe
+C:\Users\caksh\Desktop\my-git-class-lab-internal\dotnet-git\Demo\FileIOAssignment\obj\Debug\FileIOAssignment.pdb
