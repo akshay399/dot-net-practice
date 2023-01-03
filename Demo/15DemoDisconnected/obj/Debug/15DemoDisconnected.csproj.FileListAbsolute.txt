@@ -1,0 +1,8 @@
+C:\Users\caksh\Desktop\my-git-class-lab-internal\dotnet-git\Demo\15DemoDisconnected\bin\Debug\15DemoDisconnected.exe.config
+C:\Users\caksh\Desktop\my-git-class-lab-internal\dotnet-git\Demo\15DemoDisconnected\bin\Debug\15DemoDisconnected.exe
+C:\Users\caksh\Desktop\my-git-class-lab-internal\dotnet-git\Demo\15DemoDisconnected\bin\Debug\15DemoDisconnected.pdb
+C:\Users\caksh\Desktop\my-git-class-lab-internal\dotnet-git\Demo\15DemoDisconnected\obj\Debug\15DemoDisconnected.csproj.AssemblyReference.cache
+C:\Users\caksh\Desktop\my-git-class-lab-internal\dotnet-git\Demo\15DemoDisconnected\obj\Debug\15DemoDisconnected.csproj.SuggestedBindingRedirects.cache
+C:\Users\caksh\Desktop\my-git-class-lab-internal\dotnet-git\Demo\15DemoDisconnected\obj\Debug\15DemoDisconnected.csproj.CoreCompileInputs.cache
+C:\Users\caksh\Desktop\my-git-class-lab-internal\dotnet-git\Demo\15DemoDisconnected\obj\Debug\15DemoDisconnected.exe
+C:\Users\caksh\Desktop\my-git-class-lab-internal\dotnet-git\Demo\15DemoDisconnected\obj\Debug\15DemoDisconnected.pdb

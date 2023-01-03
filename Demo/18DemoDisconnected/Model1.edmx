@@ -1,0 +1,156 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+    <Schema Namespace="punedbModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityContainer Name="punedbModelStoreContainer">
+    <EntitySet Name="Emps" EntityType="punedbModel.Store.Emps" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Tests" EntityType="punedbModel.Store.Tests" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Depts" EntityType="punedbModel.Store.Depts" store:Type="Tables" Schema="dbo" />
+    <AssociationSet Name="EmpDept" Association="punedbModel.Store.EmpDept">
+      <End Role="Emp" EntitySet="Emps" />
+      <End Role="Dept" EntitySet="Depts" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Emps">
+    <Key>
+      <PropertyRef Name="no" />
+    </Key>
+    <Property Name="no" Type="int" Nullable="false" />
+    <Property Name="name" Type="varchar" Nullable="true" MaxLength="10" />
+    <Property Name="address" Type="varchar" Nullable="true" MaxLength="10" />
+    <Property Name="DeptDeptId" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Tests">
+    <Key>
+      <PropertyRef Name="TestNo" />
+    </Key>
+    <Property Name="TestNo" Type="int" Nullable="false" />
+    <Property Name="TestName" Type="varchar" Nullable="true" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="Depts">
+    <Key>
+      <PropertyRef Name="DeptId" />
+    </Key>
+    <Property Name="DeptId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="DeptName" Type="nvarchar(max)" Nullable="false" />
+  </EntityType>
+  <Association Name="EmpDept">
+    <End Role="Emp" Type="punedbModel.Store.Emps" Multiplicity="*" />
+    <End Role="Dept" Type="punedbModel.Store.Depts" Multiplicity="1" />
+    <ReferentialConstraint>
+      <Principal Role="Dept">
+        <PropertyRef Name="DeptId" />
+      </Principal>
+      <Dependent Role="Emp">
+        <PropertyRef Name="DeptDeptId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema></edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="punedbModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityType Name="Emp">
+          <Key>
+            <PropertyRef Name="no" />
+          </Key>
+          <Property Name="no" Type="Int32" Nullable="false" />
+          <Property Name="name" Type="String" MaxLength="10" FixedLength="false" Unicode="false" />
+          <Property Name="address" Type="String" MaxLength="10" FixedLength="false" Unicode="false" />
+          <NavigationProperty Name="Dept" Relationship="punedbModel.EmpDept" FromRole="Emp" ToRole="Dept" />
+          <Property Name="DeptDeptId" Type="Int32" Nullable="false" />
+        </EntityType>
+        <EntityType Name="Test">
+          <Key>
+            <PropertyRef Name="TestNo" />
+          </Key>
+          <Property Name="TestNo" Type="Int32" Nullable="false" />
+          <Property Name="TestName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+        </EntityType>
+        <EntityContainer Name="practice" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="Emps" EntityType="Self.Emp" />
+          <EntitySet Name="Tests" EntityType="Self.Test" />
+          <EntitySet Name="Depts" EntityType="punedbModel.Dept" />
+          <AssociationSet Name="EmpDept" Association="punedbModel.EmpDept">
+            <End Role="Emp" EntitySet="Emps" />
+            <End Role="Dept" EntitySet="Depts" />
+          </AssociationSet>
+        </EntityContainer>
+        <EntityType Name="Dept">
+          <Key>
+            <PropertyRef Name="DeptId" />
+          </Key>
+          <Property Name="DeptId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="DeptName" Type="String" Nullable="false" />
+          <NavigationProperty Name="Emps" Relationship="punedbModel.EmpDept" FromRole="Dept" ToRole="Emp" />
+        </EntityType>
+        <Association Name="EmpDept">
+          <End Type="punedbModel.Emp" Role="Emp" Multiplicity="*" />
+          <End Type="punedbModel.Dept" Role="Dept" Multiplicity="1" />
+          <ReferentialConstraint>
+            <Principal Role="Dept">
+              <PropertyRef Name="DeptId" />
+            </Principal>
+            <Dependent Role="Emp">
+              <PropertyRef Name="DeptDeptId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+    <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="punedbModelStoreContainer" CdmEntityContainer="practice">
+    <EntitySetMapping Name="Emps">
+      <EntityTypeMapping TypeName="IsTypeOf(punedbModel.Emp)">
+        <MappingFragment StoreEntitySet="Emps">
+          <ScalarProperty Name="no" ColumnName="no" />
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="address" ColumnName="address" />
+          <ScalarProperty Name="DeptDeptId" ColumnName="DeptDeptId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Tests">
+      <EntityTypeMapping TypeName="IsTypeOf(punedbModel.Test)">
+        <MappingFragment StoreEntitySet="Tests">
+          <ScalarProperty Name="TestNo" ColumnName="TestNo" />
+          <ScalarProperty Name="TestName" ColumnName="TestName" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Depts">
+      <EntityTypeMapping TypeName="IsTypeOf(punedbModel.Dept)">
+        <MappingFragment StoreEntitySet="Depts">
+          <ScalarProperty Name="DeptId" ColumnName="DeptId" />
+          <ScalarProperty Name="DeptName" ColumnName="DeptName" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping></edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="true" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="True" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="None" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>
