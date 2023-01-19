@@ -1,0 +1,8 @@
+C:\Users\caksh\Desktop\my-git-class-lab-internal\dotnet-git\Demo\InterfacesTrial\bin\Debug\InterfacesTrial.exe.config
+C:\Users\caksh\Desktop\my-git-class-lab-internal\dotnet-git\Demo\InterfacesTrial\bin\Debug\InterfacesTrial.exe
+C:\Users\caksh\Desktop\my-git-class-lab-internal\dotnet-git\Demo\InterfacesTrial\bin\Debug\InterfacesTrial.pdb
+C:\Users\caksh\Desktop\my-git-class-lab-internal\dotnet-git\Demo\InterfacesTrial\obj\Debug\InterfacesTrial.csproj.AssemblyReference.cache
+C:\Users\caksh\Desktop\my-git-class-lab-internal\dotnet-git\Demo\InterfacesTrial\obj\Debug\InterfacesTrial.csproj.SuggestedBindingRedirects.cache
+C:\Users\caksh\Desktop\my-git-class-lab-internal\dotnet-git\Demo\InterfacesTrial\obj\Debug\InterfacesTrial.csproj.CoreCompileInputs.cache
+C:\Users\caksh\Desktop\my-git-class-lab-internal\dotnet-git\Demo\InterfacesTrial\obj\Debug\InterfacesTrial.exe
+C:\Users\caksh\Desktop\my-git-class-lab-internal\dotnet-git\Demo\InterfacesTrial\obj\Debug\InterfacesTrial.pdb

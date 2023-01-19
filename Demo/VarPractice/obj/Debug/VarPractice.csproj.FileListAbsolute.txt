@@ -1,0 +1,8 @@
+C:\Users\caksh\Desktop\my-git-class-lab-internal\dotnet-git\Demo\VarPractice\bin\Debug\VarPractice.exe.config
+C:\Users\caksh\Desktop\my-git-class-lab-internal\dotnet-git\Demo\VarPractice\bin\Debug\VarPractice.exe
+C:\Users\caksh\Desktop\my-git-class-lab-internal\dotnet-git\Demo\VarPractice\bin\Debug\VarPractice.pdb
+C:\Users\caksh\Desktop\my-git-class-lab-internal\dotnet-git\Demo\VarPractice\obj\Debug\VarPractice.csproj.AssemblyReference.cache
+C:\Users\caksh\Desktop\my-git-class-lab-internal\dotnet-git\Demo\VarPractice\obj\Debug\VarPractice.csproj.SuggestedBindingRedirects.cache
+C:\Users\caksh\Desktop\my-git-class-lab-internal\dotnet-git\Demo\VarPractice\obj\Debug\VarPractice.csproj.CoreCompileInputs.cache
+C:\Users\caksh\Desktop\my-git-class-lab-internal\dotnet-git\Demo\VarPractice\obj\Debug\VarPractice.exe
+C:\Users\caksh\Desktop\my-git-class-lab-internal\dotnet-git\Demo\VarPractice\obj\Debug\VarPractice.pdb

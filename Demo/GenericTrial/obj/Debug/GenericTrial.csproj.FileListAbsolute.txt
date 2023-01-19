@@ -1,0 +1,8 @@
+C:\Users\caksh\Desktop\my-git-class-lab-internal\dotnet-git\Demo\GenericTrial\bin\Debug\GenericTrial.exe.config
+C:\Users\caksh\Desktop\my-git-class-lab-internal\dotnet-git\Demo\GenericTrial\bin\Debug\GenericTrial.exe
+C:\Users\caksh\Desktop\my-git-class-lab-internal\dotnet-git\Demo\GenericTrial\bin\Debug\GenericTrial.pdb
+C:\Users\caksh\Desktop\my-git-class-lab-internal\dotnet-git\Demo\GenericTrial\obj\Debug\GenericTrial.csproj.AssemblyReference.cache
+C:\Users\caksh\Desktop\my-git-class-lab-internal\dotnet-git\Demo\GenericTrial\obj\Debug\GenericTrial.csproj.SuggestedBindingRedirects.cache
+C:\Users\caksh\Desktop\my-git-class-lab-internal\dotnet-git\Demo\GenericTrial\obj\Debug\GenericTrial.csproj.CoreCompileInputs.cache
+C:\Users\caksh\Desktop\my-git-class-lab-internal\dotnet-git\Demo\GenericTrial\obj\Debug\GenericTrial.exe
+C:\Users\caksh\Desktop\my-git-class-lab-internal\dotnet-git\Demo\GenericTrial\obj\Debug\GenericTrial.pdb

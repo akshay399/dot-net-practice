@@ -1,0 +1,8 @@
+C:\Users\caksh\Desktop\my-git-class-lab-internal\dotnet-git\Demo\18DemoFeatures\bin\Debug\18DemoFeatures.exe.config
+C:\Users\caksh\Desktop\my-git-class-lab-internal\dotnet-git\Demo\18DemoFeatures\bin\Debug\18DemoFeatures.exe
+C:\Users\caksh\Desktop\my-git-class-lab-internal\dotnet-git\Demo\18DemoFeatures\bin\Debug\18DemoFeatures.pdb
+C:\Users\caksh\Desktop\my-git-class-lab-internal\dotnet-git\Demo\18DemoFeatures\obj\Debug\18DemoFeatures.csproj.AssemblyReference.cache
+C:\Users\caksh\Desktop\my-git-class-lab-internal\dotnet-git\Demo\18DemoFeatures\obj\Debug\18DemoFeatures.csproj.SuggestedBindingRedirects.cache
+C:\Users\caksh\Desktop\my-git-class-lab-internal\dotnet-git\Demo\18DemoFeatures\obj\Debug\18DemoFeatures.csproj.CoreCompileInputs.cache
+C:\Users\caksh\Desktop\my-git-class-lab-internal\dotnet-git\Demo\18DemoFeatures\obj\Debug\18DemoFeatures.exe
+C:\Users\caksh\Desktop\my-git-class-lab-internal\dotnet-git\Demo\18DemoFeatures\obj\Debug\18DemoFeatures.pdb

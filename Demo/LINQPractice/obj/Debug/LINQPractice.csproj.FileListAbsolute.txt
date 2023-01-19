@@ -1,0 +1,8 @@
+C:\Users\caksh\Desktop\my-git-class-lab-internal\dotnet-git\Demo\LINQPractice\bin\Debug\LINQPractice.exe.config
+C:\Users\caksh\Desktop\my-git-class-lab-internal\dotnet-git\Demo\LINQPractice\bin\Debug\LINQPractice.exe
+C:\Users\caksh\Desktop\my-git-class-lab-internal\dotnet-git\Demo\LINQPractice\bin\Debug\LINQPractice.pdb
+C:\Users\caksh\Desktop\my-git-class-lab-internal\dotnet-git\Demo\LINQPractice\obj\Debug\LINQPractice.csproj.AssemblyReference.cache
+C:\Users\caksh\Desktop\my-git-class-lab-internal\dotnet-git\Demo\LINQPractice\obj\Debug\LINQPractice.csproj.SuggestedBindingRedirects.cache
+C:\Users\caksh\Desktop\my-git-class-lab-internal\dotnet-git\Demo\LINQPractice\obj\Debug\LINQPractice.csproj.CoreCompileInputs.cache
+C:\Users\caksh\Desktop\my-git-class-lab-internal\dotnet-git\Demo\LINQPractice\obj\Debug\LINQPractice.exe
+C:\Users\caksh\Desktop\my-git-class-lab-internal\dotnet-git\Demo\LINQPractice\obj\Debug\LINQPractice.pdb

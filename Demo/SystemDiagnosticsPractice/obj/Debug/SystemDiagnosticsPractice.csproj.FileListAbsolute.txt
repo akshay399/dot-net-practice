@@ -1,0 +1,8 @@
+C:\Users\caksh\Desktop\my-git-class-lab-internal\dotnet-git\Demo\SystemDiagnosticsPractice\bin\Debug\SystemDiagnosticsPractice.exe.config
+C:\Users\caksh\Desktop\my-git-class-lab-internal\dotnet-git\Demo\SystemDiagnosticsPractice\bin\Debug\SystemDiagnosticsPractice.exe
+C:\Users\caksh\Desktop\my-git-class-lab-internal\dotnet-git\Demo\SystemDiagnosticsPractice\bin\Debug\SystemDiagnosticsPractice.pdb
+C:\Users\caksh\Desktop\my-git-class-lab-internal\dotnet-git\Demo\SystemDiagnosticsPractice\obj\Debug\SystemDiagnosticsPractice.csproj.AssemblyReference.cache
+C:\Users\caksh\Desktop\my-git-class-lab-internal\dotnet-git\Demo\SystemDiagnosticsPractice\obj\Debug\SystemDiagnosticsPractice.csproj.SuggestedBindingRedirects.cache
+C:\Users\caksh\Desktop\my-git-class-lab-internal\dotnet-git\Demo\SystemDiagnosticsPractice\obj\Debug\SystemDiagnosticsPractice.csproj.CoreCompileInputs.cache
+C:\Users\caksh\Desktop\my-git-class-lab-internal\dotnet-git\Demo\SystemDiagnosticsPractice\obj\Debug\SystemDiagnosticsPractice.exe
+C:\Users\caksh\Desktop\my-git-class-lab-internal\dotnet-git\Demo\SystemDiagnosticsPractice\obj\Debug\SystemDiagnosticsPractice.pdb
